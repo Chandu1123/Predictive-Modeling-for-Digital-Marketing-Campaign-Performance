@@ -5,6 +5,8 @@
 # Problem Statement: You are provided with a dataset containing the historical data of various digital marketing campaigns. This dataset comprises both the performance metrics (like impressions, engagements, spends, etc.) and creative attributes (such as Headline, CTA, Hero image, Offer, etc.) of each campaign.
 
 
+venv with python version = 3.9.18
+
 # work flow:
 
 1.	Exploratory Data Analysis (EDA): Conduct a thorough exploratory analysis of the dataset. Identify trends, correlations, and any interesting insights that could provide a deeper understanding of how creative attributes influence performance metrics.
